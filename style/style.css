@@ -1,0 +1,23 @@
+form a {
+    margin-left: 10px;
+}
+
+.imgLiga {
+    width:128px;
+    height:128px;
+}
+
+.imgLiga1 {
+    width:128px;
+    height:128px;
+    float: right;
+/*preguntar cómo se pone a la derecha las cosas
+    además de cómo aplico un mismo estilo a varias cosas
+    y después le defino estilo a unos pocos */
+}
+
+h3 {
+    color: red !important;
+}
+
+
